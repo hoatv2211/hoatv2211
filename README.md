@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MAD</h1>
-<h3 align="center">A Senior Unity Developer from VN</h3>
+<h3 align="center">A Senior Unity Developer</h3>
 
 - 🌱 I’m currently working **Unity - C#**
 
