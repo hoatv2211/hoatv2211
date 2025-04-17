@@ -1,3 +1,7 @@
+ <p align="center">
+  <img src="https://github.com/hoatv2211/hoatv2211.github.io/blob/main/assets/videos/intro.gif?raw=true" width="600"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm MAD</h1>
 <h3 align="center">A Senior Unity Developer</h3>
 
