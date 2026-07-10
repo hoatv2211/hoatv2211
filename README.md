@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://t.me/o0_MaD_0o" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="hoatv" height="30" width="30" /></a>
-<a href="+84374639758" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-whatsapp-icon-svg-download-png-3073755.png" alt="hoatv" height="30" width="30" /></a>
+<a href="https://wa.link/jt2usw" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-whatsapp-icon-svg-download-png-3073755.png" alt="hoatv" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/hoatv" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="hoatv" height="30" width="30" /></a>
 </p>
 
@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </div>
 
-### &nbsp; Github Summary
+
 
 <p align="center">
   <img 
@@ -43,7 +43,7 @@
   />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoatv2211&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=hasoftware's%20Activity%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoatv2211&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=HoaTV's%20Activity%20Graph" />
 
 ### &nbsp;Tech Stack
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
