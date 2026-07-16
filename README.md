@@ -7,7 +7,7 @@
 
 <p align="center">
   🌱 I’m currently working <b>Unity - C#</b> <br>
-  💬 Ask me about <b>Game - Blockchain - Something</b> <br>
+  💬 Ask me about <b>Games - Agentics - Automations</b> <br>
   📫 How to reach me <b>https://hoatv2211.github.io/</b>
 </p>
 
